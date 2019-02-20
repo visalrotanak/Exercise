@@ -2,28 +2,27 @@
 
 
 1. Decimal = 122
-   Binary =
-   Octal =
-   Hexadecimal =
+   Binary = 0111 1010
+   Octal = 172
+   Hexadecimal = 7A
 
 2. Binary=10011101
-   Decimal = 
-   Octal = 
-   Hexadecimal =
+   Decimal = 157
+   Octal = 235
+   Hexadecimal = 9D
 
 3. Octal=576
-   Binary=
-   Decimal=
-   Hexadecimal=
+   Binary= 0001 0111 1110
+   Decimal= 382
+   Hexadecimal= 17E
 
 4. Hexadecimal=2A2
-   Binary=
-   Decimal=
-   Octal=
+   Binary= 0010 1010 0010
+   Decimal= 674
+   Octal= 1242
 
 
 
 
                           Do you want more exercise please comment?
-  
-  
+  I want more exercise like this.
